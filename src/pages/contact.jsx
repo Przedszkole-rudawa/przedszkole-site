@@ -143,7 +143,7 @@ const Contact = () => {
                                         </div>
                                 )}
                               </div>
-                              <div className="mb-5 has-text-justified">
+                              <p className="mb-5 has-text-justified">
                                 Uzupełnienie niniejszego formularza stanowi zgodę na przetwarzanie wpisanych danych
                                 osobowych przez Przedszkole Niepubliczne Sióstr Służebniczek NMP NP
                                 w&nbsp;celu ułatwienia z&nbsp;Państwem kontaktu w&nbsp;związku z&nbsp;wysłaniem
@@ -167,7 +167,7 @@ const Contact = () => {
                                          onChange={() => setAgreement(!agreement)}/>
                                   Wyrażam zgodę
                                 </label>
-                              </div>
+                              </p>
                               <div className="has-text-centered">
                                 <button className={`button is-main is-medium is-rounded ${submitting ? 'is-loading' : ''}`}
                                         type="submit"
