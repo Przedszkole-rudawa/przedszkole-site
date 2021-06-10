@@ -62,7 +62,7 @@ const IndexPage = () => {
                       <h1 className="mt-3 mb-6">
                         Razem bawimy się, uczymy i&nbsp;wzrastamy!
                       </h1>
-                      <Link className="button is-main is-medium is-rounded"
+                      <Link className="button is-main is-medium is-rounded touch-padded"
                             to="/everyday/groups">Dowiedz się wiecej</Link>
                     </div>
                   </div>
@@ -73,7 +73,7 @@ const IndexPage = () => {
               <h4>Poznajmy się lepiej</h4>
               <h2 className="mt-4">Naszym priorytetem jest <br/>wszechstronny rozwój każdego dziecka</h2>
             </section>
-            <section className="container mb-6">
+            <section className={`container ${styles.featuresContainer}`}>
               <div className="columns is-desktop">
                 {Features.map(featureDef => (
                         <FeaturedCard className="column is-full-touch is-one-quarter-desktop"
