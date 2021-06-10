@@ -13,12 +13,15 @@ html {
   }
 }
 
+h1, h2, h3, h4 {
+  line-height: 1.2;
+}
+
 h1 {
   font-family: 'Ubuntu', sans-serif;
   font-size: 2.5rem;
   font-weight: bold;
   color: $mainAccent;
-  line-height: 1.2;
 
   @include tablet() {
     font-size: 2.5rem;
