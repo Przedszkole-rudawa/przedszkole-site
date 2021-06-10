@@ -73,7 +73,7 @@ const IndexPage = () => {
               <h4>Poznajmy się lepiej</h4>
               <h2 className="mt-4">Naszym priorytetem jest <br/>wszechstronny rozwój każdego dziecka</h2>
             </section>
-            <section className="container mb-6">
+            <section className={`container ${styles.featuresContainer}`}>
               <div className="columns is-desktop">
                 {Features.map(featureDef => (
                         <FeaturedCard className="column is-full-touch is-one-quarter-desktop"

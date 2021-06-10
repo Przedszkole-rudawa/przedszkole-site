@@ -65,3 +65,9 @@
     padding: 10rem 0 !important;
   }
 }
+
+.features-container {
+  @include desktop()  {
+    margin-bottom: 3rem;
+  }
+}
