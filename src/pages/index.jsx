@@ -62,7 +62,7 @@ const IndexPage = () => {
                       <h1 className="mt-3 mb-6">
                         Razem bawimy się, uczymy i&nbsp;wzrastamy!
                       </h1>
-                      <Link className="button is-main is-medium is-rounded"
+                      <Link className="button is-main is-medium is-rounded touch-padded"
                             to="/everyday/groups">Dowiedz się wiecej</Link>
                     </div>
                   </div>

@@ -58,7 +58,10 @@
 }
 
 .hero-body {
+  padding-left: 0;
+  padding-right: 0;
+
   @include tablet() {
-    padding: 10rem 1.5rem !important;
+    padding: 10rem 0 !important;
   }
 }

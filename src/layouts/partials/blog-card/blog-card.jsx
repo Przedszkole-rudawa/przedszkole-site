@@ -24,7 +24,7 @@ const BlogCard = ({ node }) => {
                       dateTime={node.frontmatter.date}>{formatDate(node.frontmatter.date)}</time>
               </div>
               }
-              <div className={`card-content`}>
+              <div className={`card-content ${styles.content}`}>
                 <h4 className={`${styles.title} my-3`}
                     role="link"
                     onClick={() => navigate(node.fields.slug)}>{node.frontmatter.title}</h4>

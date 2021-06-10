@@ -91,9 +91,9 @@ a.plain {
 }
 
 @include touch() {
-  p {
-    margin-right: 1rem;
-    margin-left: 1rem;
+  p, h1, h2, h3, h4, h5, h6, ul, .touch-padded {
+    margin-right: 1.5rem;
+    margin-left: 1.5rem;
   }
 
   figure.image {

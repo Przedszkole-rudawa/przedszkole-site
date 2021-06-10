@@ -75,7 +75,7 @@ const Contact = () => {
                     {!isSubmitted && (
                             <form noValidate
                                   onSubmit={submit}>
-                              <div className="field is-horizontal">
+                              <div className="field is-horizontal touch-padded">
                                 <div className="field-label is-normal">
                                   <label className="label"
                                          htmlFor="nameControl">Imię
@@ -84,23 +84,23 @@ const Contact = () => {
                                 </div>
                                 <div className="field-body">
                                   <div className="field">
-                                    <p className="control">
+                                    <div className="control">
                                       <input className={`input ${nameTouched && !nameLengthValid ? 'is-danger' : ''}`}
                                              type="text"
                                              id="nameControl"
                                              value={name}
                                              onChange={e => setName(e.target.value)}
                                              onBlur={() => setNameTouched(true)}/>
-                                    </p>
+                                    </div>
                                     {nameTouched && !nameLengthValid && (
-                                            <p className="help is-danger">
+                                            <div className="help is-danger">
                                               Pole powinno zawierać od {NAME_MIN} do {NAME_MAX} znaków
-                                            </p>
+                                            </div>
                                     )}
                                   </div>
                                 </div>
                               </div>
-                              <div className="field is-horizontal">
+                              <div className="field is-horizontal touch-padded">
                                 <div className="field-label is-normal">
                                   <label className="label"
                                          htmlFor="emailControl">*E-Mail
@@ -108,7 +108,7 @@ const Contact = () => {
                                 </div>
                                 <div className="field-body">
                                   <div className="field">
-                                    <p className="control">
+                                    <div className="control">
                                       <input className={`input ${emailTouched && (!email || !emailRegexValid) ? 'is-danger' : ''}`}
                                              type="email"
                                              id="emailControl"
@@ -116,21 +116,21 @@ const Contact = () => {
                                              onChange={e => setEmail(e.target.value)}
                                              onBlur={() => setEmailTouched(true)}
                                              required/>
-                                    </p>
+                                    </div>
                                     {emailTouched && !email && (
-                                            <p className="help is-danger">
+                                            <div className="help is-danger">
                                               Pole wymagane
-                                            </p>
+                                            </div>
                                     )}
                                     {emailTouched && !emailRegexValid && (
-                                            <p className="help is-danger">
+                                            <div className="help is-danger">
                                               Nieprawidłowy adres e-mail
-                                            </p>
+                                            </div>
                                     )}
                                   </div>
                                 </div>
                               </div>
-                              <div className="field is-horizontal">
+                              <div className="field is-horizontal touch-padded">
                                 <div className="field-label is-normal">
                                   <label className="label"
                                          htmlFor="bodyControl">*Treść
@@ -138,7 +138,7 @@ const Contact = () => {
                                 </div>
                                 <div className="field-body">
                                   <div className="field">
-                                    <p className="control">
+                                    <div className="control">
                                       <textarea className={`textarea has-fixed-size ${bodyTouched && (!body || !bodyLengthValid) ? 'is-danger' : ''}`}
                                                 id="bodyControl"
                                                 value={body}
@@ -146,16 +146,16 @@ const Contact = () => {
                                                 onBlur={() => setBodyTouched(true)}
                                                 required
                                                 rows="10"/>
-                                    </p>
+                                    </div>
                                     {bodyTouched && !body && (
-                                            <p className="help is-danger">
+                                            <div className="help is-danger">
                                               Pole wymagane
-                                            </p>
+                                            </div>
                                     )}
                                     {bodyTouched && !bodyLengthValid && (
-                                            <p className="help is-danger">
+                                            <div className="help is-danger">
                                               Pole powinno zawierać od {BODY_MIN} do {BODY_MAX} znaków
-                                            </p>
+                                            </div>
                                     )}
                                   </div>
                                 </div>
@@ -166,9 +166,9 @@ const Contact = () => {
                                         disabled={!formValid}>Wyślij
                                 </button>
                                 {isError && (
-                                        <p className="help is-danger mt-5">
+                                        <div className="help is-danger mt-5">
                                           Nie udało się wysłać wiadomości. Spróbuj ponownie za chwilę.
-                                        </p>
+                                        </div>
                                 )}
                               </div>
                             </form>
