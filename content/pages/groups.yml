@@ -1,4 +1,21 @@
 group:
+  - name: SKARBY
+    body: >-
+      Nasza grupa nosi nazwę „Skarby”. Jesteśmy maluszkami, w naszej grupie jest
+      nas 24 dzieci – 15 dziewczynek i 9 chłopców i 3 panie. 
+
+
+      Chętnie chodzimy do przedszkola i bierzemy udział w różnych zajęciach i zabawach. Jesteśmy ciekawi świata i interesujemy się  wszystkim co nas otacza, a Panie nauczycielki starają się tą ciekawość zaspakajać organizując nam interesujące zabawy edukacyjne.
+
+
+      Poznajemy przedszkole, nasze Panie i rówieśników z którymi spotykamy się codziennie. Uczymy się tańczyć, śpiewać, rysować i  malować oraz poznajemy pierwsze literki i rozpoczynamy naszą przygodę z matematyką. Lubimy zabawy na placu zabaw i spacery na świeżym powietrzu. 
+
+
+      Po całym dniu wypełnionym wrażeniami odpoczywamy słuchając muzyki relaksacyjnej i czytanych  bajek, by mieć dużo sił na popołudniowe zabawy w przedszkolu  i po powrocie do domu z rodzicami i rodzeństwem.
+    image:
+      - https://res.cloudinary.com/db6nheyow/image/upload/v1623393852/grupy/logo_sloneczka_yl4fit.jpg
+    photo:
+      - https://res.cloudinary.com/db6nheyow/image/upload/v1622539587/grupy/starszaki.png
   - name: Odkrywcy
     body: >-
       Jesteśmy maluszkami, nasza grupa liczy 24 dzieci. We wrześniu, po zaledwie
@@ -52,20 +69,3 @@ group:
       - https://res.cloudinary.com/db6nheyow/image/upload/v1623393852/grupy/logo_bystrzaki_hthxhj.jpg
     photo:
       - https://res.cloudinary.com/db6nheyow/image/upload/v1622561022/grupy/%C5%9Bredniaki/177554564_519362162777777_2595827562225001294_n_p7uc3g.jpg
-  - name: Słoneczka
-    body: >-
-      Nasza grupa nosi nazwę „Skarby”. Jesteśmy maluszkami, w naszej grupie jest
-      nas 24 dzieci – 15 dziewczynek i 9 chłopców i 3 panie. 
-
-
-      Chętnie chodzimy do przedszkola i bierzemy udział w różnych zajęciach i zabawach. Jesteśmy ciekawi świata i interesujemy się  wszystkim co nas otacza, a Panie nauczycielki starają się tą ciekawość zaspakajać organizując nam interesujące zabawy edukacyjne.
-
-
-      Poznajemy przedszkole, nasze Panie i rówieśników z którymi spotykamy się codziennie. Uczymy się tańczyć, śpiewać, rysować i  malować oraz poznajemy pierwsze literki i rozpoczynamy naszą przygodę z matematyką. Lubimy zabawy na placu zabaw i spacery na świeżym powietrzu. 
-
-
-      Po całym dniu wypełnionym wrażeniami odpoczywamy słuchając muzyki relaksacyjnej i czytanych  bajek, by mieć dużo sił na popołudniowe zabawy w przedszkolu  i po powrocie do domu z rodzicami i rodzeństwem.
-    image:
-      - https://res.cloudinary.com/db6nheyow/image/upload/v1623393852/grupy/logo_sloneczka_yl4fit.jpg
-    photo:
-      - https://res.cloudinary.com/db6nheyow/image/upload/v1622539587/grupy/starszaki.png
