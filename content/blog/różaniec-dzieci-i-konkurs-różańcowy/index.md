@@ -1,0 +1,8 @@
+---
+title: Różaniec dzieci i konkurs różańcowy
+date: 2021-10-12T14:19:24.245Z
+images: https://www.google.com/search?q=r%C3%B3%C5%BCaniec+tapeta&sxsrf=AOaemvKeEdxzl3WEDDgoUkU018kROXx1gg:1637767845605&tbm=isch&source=iu&ictx=1&fir=XUKTWkEsJiuoHM%252CdyvBw1R8TSmuvM%252C_%253BUh0Y1arUXDG9LM%252CxL-VF50T-OQ1XM%252C_%253BN8Akq6BOZi7UCM%252C6KkvqHzhzU13rM%252C_%253Bp6VszjW2o2NcvM%252CMEIa7e2MHIfapM%252C_%253Bi9dY3GyNvlcA0M%252CxiGzEIK5kW5n5M%252C_%253BbaAeGMwSsesPQM%252C0_eQ5SmWU4Q4AM%252C_%253BseyymWTeNitQgM%252CbjudnkPe0lljIM%252C_%253BjIKlcHdbDNNTeM%252CyrvZLfkiUeG6VM%252C_%253BL4HDTvxKuqCrJM%252C6OxNi0IFiihsSM%252C_%253B91LvCz9gJmoAUM%252C8HuGcPF7omMkEM%252C_%253BTLwQrk6MuvKpbM%252COwAtl7ajsnITRM%252C_%253BHCY8wG43J9xoDM%252ClVjQoYbpkphQiM%252C_%253BC0KMD-LaopTGAM%252C6OxNi0IFiihsSM%252C_%253BbCS6YGImuXoMGM%252CV-lRSBlJL_UxHM%252C_%253BOUaNJoW578zfFM%252CfOfkgBiAbz_u2M%252C_%253Bn9we_6ITSUVrdM%252CI_MA1H1ScvYtgM%252C_&vet=1&usg=AI4_-kS2kpyzaqGJn-hJSYgxjPsydKgqjg&sa=X&ved=2ahUKEwib-qTVqLH0AhUmposKHbwdA60Q9QF6BAgXEAE&biw=1536&bih=664&dpr=1.25#imgrc=91LvCz9gJmoAUM
+---
+7 października odbył się konkurs różańcowy. W tym roku tematem konkursu była "Rodzina różańcem silna". Wpłynęło 35 bardzo wyjątkowych i przepięknych prac z których wyłoniono 6 laureatów.  Rodzicom i dzieciom gratulujemy pomysłowości, kreatywności i zaangażowania.
+
+12 października całym przedszkolem udaliśmy się do naszego kościoła parafialnego, by modlić się za rodziny dzieci z naszej Ochronki. Bardzo serdecznie dziękujemy wszystkim rodzicom uczestniczącym w nabożeństwie a w szczególności zaangażowanym w czytanie rozważań różańcowych.
