@@ -1,4 +1,6 @@
 person:
+  - name: s. Barbara Pasternak
+    role: Dyrektor przedszkola
   - role: Wychowawca w grupie Bystrzaków
     name: Dominika Borkiewicz
     description: >-
@@ -46,6 +48,8 @@ person:
       cierpliwości.
     photo:
       - https://res.cloudinary.com/dswesmbkz/image/upload/v1621367481/Kadra/image_7_lmfavp.png
+  - name: Sylwia Domagała
+    role: Wychowawca w grupie Skarbów
   - role: Wychowawca w grupie Skarbów
     name: Weronika Tarnawska
     description: Jestem absolwentką Uniwersytetu Pedagogicznego w Krakowie na
@@ -85,7 +89,3 @@ person:
     role: Pracownik obsługi
   - name: Maria Strączek
     role: Pracownik obsługi
-  - name: s. Barbara Pasternak
-    role: Dyrektor przedszkola
-  - name: Sylwia Domagała
-    role: Wychowawca w grupie Skarbów
