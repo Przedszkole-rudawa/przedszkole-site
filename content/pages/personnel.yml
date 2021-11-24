@@ -1,27 +1,4 @@
 person:
-  - role: Dyrektor przedszkola i wychowawca w grupie Odkrywców
-    name: s. Agnieszka Szczerbowska
-    description: Jestem absolwentką teologii nauczycielskiej na Uniwersytecie
-      Śląskim, oraz studiów podyplomowych Wychowanie przedszkolne i
-      wczesnoszkolne, oraz Organizacja i zarzadzanie w Oświacie. Ukończyłam
-      program szkoleniowy Szkoła Dla Rodziców i Wychowawców. Praca z dziećmi
-      jest nie tylko moim zawodem ale i pasją. Pełniąc funkcję dyrektora nie
-      zrezygnowałam z bycia wychowawcą, bowiem to właśnie czas spędzony z
-      dziećmi jest dla mnie źródłem największej radości i satysfakcji. W swojej
-      pracy, pamiętając o słowach Edmunda Bojanowskiego, że dzieci są
-      największym skarbem Pana Boga, staram się wszystkie swoje siły, talenty i
-      zdolności wkładać w to, aby zarówno moja grupa jak i wszystkie
-      przedszkolaki czuły się w przedszkolu jak w drugim domu. Staram się
-      dostrzegać indywidualne potrzeby każdego przedszkolaka, zależy mi aby  już
-      od najmłodszych lat, każde dziecko miało przestrzeń oraz możliwości do
-      wyrażanie samego siebie, aby czuło się ważne, wartościowe i kochane.
-      Uśmiech dziecka, oraz możliwość uczestniczenia w codziennym,
-      entuzjastycznym zachwycie dzieci nad tym co dla nas, dorosłych często
-      oczywiste -  jest dla mnie największą radością. W czasie wolnym lubię
-      czytać kryminały, jeździć na rowerze, chodzić po górach i eksperymentować
-      w kuchni.
-    photo:
-      - https://res.cloudinary.com/dswesmbkz/image/upload/v1621367481/Kadra/image_3_drjzey.png
   - role: Wychowawca w grupie Bystrzaków
     name: Dominika Borkiewicz
     description: >-
@@ -88,8 +65,7 @@ person:
       kreatywność. Przyjemność sprawia mi wywoływanie radości u dzieci i
       wzbudzanie w nich zaciekawienia. Uwielbiam pływać, ukończyłam kurs
       ratownika wodnego. Lubię też ręczne robótki – haft i szycie zabawek.
-    photo:
-      - https://res.cloudinary.com/dswesmbkz/image/upload/v1621367481/Kadra/image_4_crgiiu.png
+    photo: ""
   - role: Wychowawca w grupie Bystrzaków
     name: Monika Ziomek
     description: "Ukończyłam Studia magisterskie Zarządzanie i marketing, Studia
@@ -109,3 +85,5 @@ person:
     role: Pracownik obsługi
   - name: Maria Strączek
     role: Pracownik obsługi
+  - name: s. Barbara Pasternak
+    role: Dyrektor przedszkola
