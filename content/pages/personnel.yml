@@ -1,6 +1,4 @@
 person:
-  - name: s.  Barbara Pasternak
-    role: Dyrektor przedszkola
   - role: Wychowawca w grupie Bystrzaków
     name: Dominika Borkiewicz
     description: >-
@@ -89,3 +87,5 @@ person:
     role: Pracownik obsługi
   - name: Maria Strączek
     role: Pracownik obsługi
+  - name: s. Barbara Pasternak
+    role: Dyrektor
