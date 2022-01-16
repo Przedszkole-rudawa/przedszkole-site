@@ -1,6 +1,4 @@
 person:
-  - name: s. Barbara Pasternak
-    role: Dyrektor
   - role: Wychowawca w grupie Bystrzaków
     name: Monika Ziomek
     description: "Ukończyłam Studia magisterskie Zarządzanie i marketing, Studia
@@ -89,3 +87,5 @@ person:
     role: Pracownik obsługi
   - name: Karolina Niemiec
     role: Pracownik obsługi
+  - name: s. Barbara Pasternak
+    role: Dyrektor
