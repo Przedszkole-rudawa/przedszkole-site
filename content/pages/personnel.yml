@@ -63,9 +63,13 @@ person:
       - https://res.cloudinary.com/dswesmbkz/image/upload/v1621367481/Kadra/image_7_lmfavp.png
   - name: Sylwia Domagała
     role: Wychowawca w grupie Skarbów
-  - role: Wychowawca w grupie Skarbów
-    name: Weronika Tarnawska
-    description: Jestem absolwentką Uniwersytetu Pedagogicznego w Krakowie na
+  - name: Renata Byczek
+    role: Pracownik obsługi
+  - name: Karolina Niemiec
+    role: Pracownik obsługi
+  - name: s. Barbara Pasternak
+    role: Dyrektor
+  - description: "Jestem absolwentką Uniwersytetu Pedagogicznego w Krakowie na
       kierunku Pedagogika Przedszkolna i Wczesnoszkolna.  Ukończyłam również
       studia podyplomowe na kierunku Logopedia. Zdobyłam umiejętności z zakresu
       TUS oraz wychowania w myśl Pozytywnej Dyscypliny. Bardzo lubię się
@@ -80,12 +84,6 @@ person:
       ale też naszą przedszkolną codziennością. Uwielbiam rozmawiać z dziećmi,
       zwłaszcza na trudne, życiowe tematy. Lubię pobudzać swoją i dziecięcą
       kreatywność. Przyjemność sprawia mi wywoływanie radości u dzieci i
-      wzbudzanie w nich zaciekawienia. Uwielbiam pływać, ukończyłam kurs
-      ratownika wodnego. Lubię też ręczne robótki – haft i szycie zabawek.
-    photo: ""
-  - name: Renata Byczek
-    role: Pracownik obsługi
-  - name: Karolina Niemiec
-    role: Pracownik obsługi
-  - name: s. Barbara Pasternak
-    role: Dyrektor
+      wzbudzanie w nich zaciekawienia. "
+    role: Wychowawca w grupie Skarbów
+    name: Weronika Tarnawska
