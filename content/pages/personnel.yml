@@ -25,8 +25,6 @@ person:
       pedagogiczną oraz studia magisterskie na kierunku Pedagogika przedszkolna i wczesnoszkolna. W pracy staram się tworzyć taką atmosferę i warunki, które zapewniają właściwy rozwój fizyczny i psychiczny dzieci.  Praca z dziećmi sprawia mi ogromną radość, codziennie przynosi nowe doświadczenia – nie jest wyłącznie moim zawodem, ale również pasją. Chciałabym, aby czas spędzony w przedszkolu był dla dzieci wesoły i twórczy. Interesuję się wychowaniem przez sztukę, literaturą dziecięcą, grą na gitarze oraz pleceniem dekoracji ze sznurków.
     photo:
       - https://res.cloudinary.com/dswesmbkz/image/upload/v1621367481/Kadra/image_5_jkdbzg.png
-  - name: Maria Strączek
-    role: Pracownik obsługi
   - role: Wychowawca w grupie Odkrywców
     name: s. Joanna Bugańska
     description: "Mottem, którym, staram się kierować w życiu są słowa patrona
@@ -84,6 +82,8 @@ person:
       kreatywność. Przyjemność sprawia mi wywoływanie radości u dzieci i
       wzbudzanie w nich zaciekawienia. Uwielbiam pływać, ukończyłam kurs
       ratownika wodnego. Lubię też ręczne robótki – haft i szycie zabawek.
+  - name: Maria Strączek
+    role: Pracownik obsługi
   - name: Renata Byczek
     role: Pracownik obsługi
   - name: Karolina Niemiec
