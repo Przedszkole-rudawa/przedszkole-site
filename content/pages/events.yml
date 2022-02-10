@@ -59,3 +59,9 @@ event:
   - start: 2022-04-08T00:00:00.000Z
     end: ""
     title: Droga Krzyżowa w Kościele
+  - start: 2022-04-14T00:00:00.000Z
+    end: 2022-04-18T00:00:00.000Z
+    title: Przerwa Świąteczna
+  - start: 2022-04-22T00:00:00.000Z
+    end: ""
+    title: Dzień Ziemi
