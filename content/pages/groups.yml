@@ -1,4 +1,15 @@
 group:
+  - name: SKARBY
+    image: https://res.cloudinary.com/db6nheyow/image/upload/v1623393852/grupy/logo_bystrzaki_hthxhj.jpg
+    photo: https://res.cloudinary.com/db6nheyow/image/upload/v1623393852/grupy/logo_odkrywcy_zcigxk.jpg
+    body: "Nasza grupa nosi nazwę „Skarby”.  Jesteśmy maluszkami, w naszej grupie
+      jest nas 24 dzieci. Dzieci z naszej grupy bardzo chętnie przychodzą do
+      przedszkola i uczestniczą w różnych zajęciach i zabawach. Jesteśmy ciekawi
+      świata i interesujemy się  wszystkim co nas otacza. Poznajemy przedszkole,
+      nasze Panie i rówieśników z którymi spotykamy się codziennie. Uczymy się
+      tańczyć, śpiewać, rysować i  malować. Lubimy zabawy  na placu zabaw i
+      spacery na świeżym powietrzu. Po całym dniu wypełnionym wrażeniami
+      odpoczywamy słuchając muzyki relaksacyjnej i czytanych  bajek. "
   - name: Odkrywcy
     body: >-
       Jesteśmy średniakami, nasza grupa liczy 24 dzieci. We wrześniu, po
@@ -52,14 +63,3 @@ group:
       - https://res.cloudinary.com/db6nheyow/image/upload/v1623393852/grupy/logo_bystrzaki_hthxhj.jpg
     photo:
       - https://res.cloudinary.com/db6nheyow/image/upload/v1622561022/grupy/%C5%9Bredniaki/177554564_519362162777777_2595827562225001294_n_p7uc3g.jpg
-  - name: SKARBY
-    image: https://res.cloudinary.com/db6nheyow/image/upload/v1623393852/grupy/logo_bystrzaki_hthxhj.jpg
-    photo: https://res.cloudinary.com/db6nheyow/image/upload/v1623393852/grupy/logo_odkrywcy_zcigxk.jpg
-    body: "Nasza grupa nosi nazwę „Skarby”.  Jesteśmy maluszkami, w naszej grupie
-      jest nas 24 dzieci. Dzieci z naszej grupy bardzo chętnie przychodzą do
-      przedszkola i uczestniczą w różnych zajęciach i zabawach. Jesteśmy ciekawi
-      świata i interesujemy się  wszystkim co nas otacza. Poznajemy przedszkole,
-      nasze Panie i rówieśników z którymi spotykamy się codziennie. Uczymy się
-      tańczyć, śpiewać, rysować i  malować. Lubimy zabawy  na placu zabaw i
-      spacery na świeżym powietrzu. Po całym dniu wypełnionym wrażeniami
-      odpoczywamy słuchając muzyki relaksacyjnej i czytanych  bajek. "
