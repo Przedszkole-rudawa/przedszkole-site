@@ -2,14 +2,13 @@ group:
   - name: SKARBY
     image: https://res.cloudinary.com/db6nheyow/image/upload/v1623393852/grupy/logo_bystrzaki_hthxhj.jpg
     photo: https://res.cloudinary.com/db6nheyow/image/upload/v1623393852/grupy/logo_odkrywcy_zcigxk.jpg
-    body: "Nasza grupa nosi nazwę „Skarby”.  Jesteśmy maluszkami, w naszej grupie
-      jest nas 24 dzieci. Dzieci z naszej grupy bardzo chętnie przychodzą do
-      przedszkola i uczestniczą w różnych zajęciach i zabawach. Jesteśmy ciekawi
-      świata i interesujemy się  wszystkim co nas otacza. Poznajemy przedszkole,
-      nasze Panie i rówieśników z którymi spotykamy się codziennie. Uczymy się
-      tańczyć, śpiewać, rysować i  malować. Lubimy zabawy  na placu zabaw i
-      spacery na świeżym powietrzu. Po całym dniu wypełnionym wrażeniami
-      odpoczywamy słuchając muzyki relaksacyjnej i czytanych  bajek. "
+    body: >-
+      Nasza grupa nosi nazwę „Skarby”.  Jesteśmy maluszkami, w naszej grupie
+      jest nas 24 dzieci.
+
+
+
+       Dzieci z naszej grupy bardzo chętnie przychodzą do przedszkola i uczestniczą w różnych zajęciach i zabawach. Jesteśmy ciekawi świata i interesujemy się  wszystkim co nas otacza. Poznajemy przedszkole, nasze Panie i rówieśników z którymi spotykamy się codziennie. Uczymy się tańczyć, śpiewać, rysować i  malować. Lubimy zabawy  na placu zabaw i spacery na świeżym powietrzu. Po całym dniu wypełnionym wrażeniami odpoczywamy słuchając muzyki relaksacyjnej i czytanych  bajek. 
   - name: Odkrywcy
     body: >-
       Jesteśmy średniakami, nasza grupa liczy 24 dzieci. We wrześniu, po
