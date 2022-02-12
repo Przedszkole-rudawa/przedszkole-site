@@ -17,7 +17,7 @@ Planowane zajęcia dodatkowe: religia, j. angielski, rytmika piłka, śpiew oraz
 
 Opłaty za przedszkole mogą ulec zmianie. 
 
-**Harmonogram rekrutacji do Przedszkola na rok szkołny 2022/2023**
+**Harmonogram rekrutacji do Przedszkola na rok szkolny 2022/2023**
 
 **DZIECI NOWE**
 
