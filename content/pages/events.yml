@@ -62,9 +62,12 @@ event:
   - start: 2022-04-14T00:00:00.000Z
     end: 2022-04-18T00:00:00.000Z
     title: Przerwa Świąteczna
-  - start: 2022-04-22T00:00:00.000Z
-    end: ""
-    title: Dzień Ziemi
   - start: 2022-03-01T07:30:55.827Z
     end: 2022-03-14T17:00:00.000Z
     title: "REKRUTACJA do PRZEDSZKOLA NA ROK SZKOLNY 2022/2023 "
+  - start: 2022-04-22T00:00:00.000Z
+    end: ""
+    title: Dzień Ziemi
+  - start: 2022-04-25T10:30:00.000Z
+    end: 2022-04-25T14:00:00.000Z
+    title: TEATR GROTESKA "Brzydkie Kaczątko" gr II i gr III
