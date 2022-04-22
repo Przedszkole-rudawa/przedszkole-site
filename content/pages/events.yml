@@ -56,9 +56,9 @@ event:
   - start: 2022-04-22T00:00:00.000Z
     end: ""
     title: Dzień Ziemi
-  - start: 2022-04-25T10:30:00.000Z
-    end: 2022-04-25T14:00:00.000Z
-    title: TEATR GROTESKA "Brzydkie Kaczątko" gr II i gr III
   - start: 2022-04-25T08:00:00.000Z
     end: 2022-04-25T12:00:00.000Z
     title: Sala zabaw dziecięcych Gibon - gr. I
+  - start: 2022-04-25T10:30:00.000Z
+    end: 2022-04-25T14:00:00.000Z
+    title: TEATR GROTESKA "Brzydkie Kaczątko" gr II i gr III
