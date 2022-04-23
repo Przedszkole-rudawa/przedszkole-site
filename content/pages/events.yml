@@ -68,3 +68,6 @@ event:
   - start: 2022-04-30T06:30:02.648Z
     end: 2022-05-03T16:30:00.000Z
     title: Przerwa majowa - długi weekend
+  - start: 2022-05-10T08:00:00.000Z
+    end: 2022-05-10T15:00:00.000Z
+    title: Wycieczka do ZOO
