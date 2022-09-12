@@ -1,15 +1,6 @@
 event:
-  - start: 2021-08-25T00:00:00.000Z
-    end: 2021-08-31T00:00:00.000Z
-    title: Zajęcia adaptacyjne dla maluszków
-  - start: 2021-09-01T17:00:00.000Z
-    end: ""
-    title: Zebranie organizacyjne dla Rodziców Odkrywców
-  - start: 2021-09-02T17:00:00.000Z
-    end: ""
-    title: Zebranie organizacyjne dla Rodziców Bystrzaków
-  - start: 2021-09-28T00:00:00.000Z
-    end: ""
+  - start: 2022-10-04T08:00:39.110Z
+    end: 2022-10-04T16:00:07.101Z
     title: Pielgrzymka do Kalwarii Zebrzydowskiej
   - start: 2021-09-05T00:00:00.000Z
     end: 2021-10-07T00:00:00.000Z
@@ -95,3 +86,6 @@ event:
   - start: 2022-07-11T00:00:00.000Z
     end: 2022-08-15T20:22:10.869Z
     title: "Przerwa wakacyjna "
+  - start: 2022-09-13T13:53:39.147Z
+    end: 2022-09-12T13:54:18.773Z
+    title: "Warsztaty z ceramiki "
