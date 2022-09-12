@@ -1,7 +1,7 @@
 person:
   - name: s. Barbara Pasternak
-    role: Dyrektor
-  - role: Wychowawca w grupie Bystrzaków
+    role: Dyrektor, wychowawca w grupie Odkrywców
+  - role: Wychowawca w grupie Zuchów
     name: Monika Ziomek
     description: "Ukończyłam Studia magisterskie Zarządzanie i marketing, Studia
       Podyplomowe: Edukacja wczesnoszkolna i przedszkolna, oraz Przygotowanie
@@ -14,7 +14,7 @@ person:
       moich podopiecznych. Jestem osobą pogodną, cierpliwą i wyrozumiałą. Staram
       się poznawać indywidualne potrzeby dzieci. Wolny czas lubię spędzać z całą
       rodziną w ogrodzie, pielęgnując rośliny."
-  - role: Wychowawca w grupie Bystrzaków
+  - role: Wychowawca w grupie Zuchów
     name: Dominika Borkiewicz
     description: >-
       Jestem absolwentką Uniwersytetu Pedagogicznego im. KEN w Krakowie.
@@ -46,21 +46,6 @@ person:
       W  uśmiechniętych  oczach  dziecka  widzę twarz Boga."
     photo:
       - https://res.cloudinary.com/dswesmbkz/image/upload/v1621367481/Kadra/image_6_hld1hm.png
-  - role: Wychowawca w grupie Odkrywców
-    name: Gabriela Godyń
-    description: Od dziecka jestem związana z przedszkolem katolickim, ponieważ sama
-      do takiego uczęszczałam. Już w trakcie studiów zaczęłam swoją przygodę z
-      edukacją przedszkolną. Pierwsza moja praca polegała na wykonywaniu
-      obowiązku pomocy nauczyciela w przedszkolu M. Montessori. Pomimo wielu
-      zalet tej metody nauczania nie odnalazłam się w tamtym miejscu.  W związku
-      z tym swoje życie zawodowe związałam z tutejszym przedszkolem, w którym
-      mogę realizować się na wielu płaszczyznach. Jestem w miejscu, które
-      cechuje dobra atmosfera tworzona przez personel oraz wspaniałych
-      podopiecznych. W wolnym czasie lubię gotować  oraz oglądać filmy. W pracy
-      z dziećmi cechuje mnie wyrozumiałość, zaangażowanie oraz duża dawka
-      cierpliwości.
-    photo:
-      - https://res.cloudinary.com/dswesmbkz/image/upload/v1621367481/Kadra/image_7_lmfavp.png
   - name: Sylwia Domagała
     role: Wychowawca w grupie Skarbów
   - role: Wychowawca w grupie Skarbów
