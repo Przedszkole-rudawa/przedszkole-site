@@ -119,6 +119,9 @@ event:
   - start: 2022-11-10T10:30:00.000Z
     end: 2022-11-10T11:00:00.000Z
     title: Akademia Patriotyczna
+  - start: 2022-10-11T08:00:11.027Z
+    end: 2022-10-11T16:00:00.000Z
+    title: Wycieczka na Wawel (grupa II i III)
   - start: 2022-11-08T10:30:54.119Z
     end: 2022-11-08T16:00:00.000Z
     title: Warsztaty z ceramiki
