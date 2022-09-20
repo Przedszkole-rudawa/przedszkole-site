@@ -142,10 +142,6 @@ class Navigation extends React.Component {
                               to="/everyday/additional-lessons">
                           Zajęcia dodatkowe
                         </Link>
-                        <Link className="navbar-item"
-                              to="/everyday/payments">
-                          Opłaty
-                        </Link>
                       </div>
                     </div>
                     <div className="navbar-item has-dropdown is-hoverable">
