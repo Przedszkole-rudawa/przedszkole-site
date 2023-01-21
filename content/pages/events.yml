@@ -128,6 +128,9 @@ event:
   - start: 2022-11-08T10:30:54.119Z
     end: 2022-11-08T16:00:00.000Z
     title: Warsztaty z ceramiki
+  - start: 2023-01-09T09:00:00.000Z
+    end: 2023-01-09T12:00:00.000Z
+    title: Witrażyki dla Babci i Dziadka
   - start: 2023-01-20T15:00:00.000Z
     end: 2023-01-20T17:00:00.000Z
     title: Jasełka z okazji Dnia Babci i Dziadka grupa II
@@ -137,3 +140,6 @@ event:
   - start: 2023-01-24T09:00:00.000Z
     end: 2023-01-24T10:00:00.000Z
     title: Teatr Eden "Najlepszy Przyjaciel"
+  - start: 2023-02-14T06:00:00.000Z
+    end: 2023-02-14T16:00:00.000Z
+    title: Bal Karnawałowy
