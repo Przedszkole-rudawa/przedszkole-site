@@ -1,4 +1,7 @@
 event:
+  - start: 2023-01-19T15:00:00.000Z
+    end: 2023-01-19T17:00:00.000Z
+    title: Jasełka z okazji Dnia Babci i Dziadka grupy III
   - start: 2021-10-12T00:00:00.000Z
     end: ""
     title: Różaniec w Kościele
@@ -125,3 +128,9 @@ event:
   - start: 2022-11-08T10:30:54.119Z
     end: 2022-11-08T16:00:00.000Z
     title: Warsztaty z ceramiki
+  - start: 2023-01-20T15:00:00.000Z
+    end: 2023-01-20T17:00:00.000Z
+    title: Jasełka z okazji Dnia Babci i Dziadka grupa II
+  - start: 2023-01-26T15:00:33.611Z
+    end: 2023-01-26T17:00:00.000Z
+    title: Jasełka z okazji Dnia Babci i Dziadka grupa I
