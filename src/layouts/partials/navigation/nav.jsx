@@ -156,10 +156,6 @@ class Navigation extends React.Component {
                           Aktualności
                         </Link>
                         <Link className="navbar-item"
-                              to="/parents/recruitment">
-                          Rekrutacja
-                        </Link>
-                        <Link className="navbar-item"
                               to="/parents/adaptation">
                           Adaptacja
                         </Link>
