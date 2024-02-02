@@ -25,8 +25,16 @@ group:
     image:
       - https://res.cloudinary.com/db6nheyow/image/upload/v1644674676/istockphoto-1179587086-612x612_ozuk9n.jpg
   - name: Zuchy
-    body: W﻿ naszej grupie jest 24 średniaków.
+    body: W﻿ naszej grupie jest 24 średniaków. Naszą  grupę prowadzą Pani Monika i
+      Pani Renia.
     image:
       - https://res.cloudinary.com/db6nheyow/image/upload/v1623393852/grupy/logo_odkrywcy_zcigxk.jpg
     photo:
       - https://res.cloudinary.com/db6nheyow/image/upload/v1706888038/dsc_0004a_rlrgbv.jpg
+  - name: Kropelki
+    body: J﻿esteśmy najmłodszą grupą, w której są 22 Kropelki. Naszą grupę prowadzą
+      s. Basia i s. Asia.
+    image:
+      - https://res.cloudinary.com/db6nheyow/image/upload/v1662994445/depositphotos_64700271-stock-illustration-cartoon-kids-and-their-teacher_frtq2f.webp
+    photo:
+      - https://res.cloudinary.com/db6nheyow/image/upload/v1622476619/aktualno%C5%9Bci/wycieczka%20do%20ZOO%202021/192120575_3915495381883062_8594146795346593208_n_qgrann.jpg
