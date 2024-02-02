@@ -59,9 +59,9 @@ person:
       ratownika wodnego. Lubię też ręczne robótki – haft i szycie zabawek.
   - name: Anna Nadgórska
     role: Pomoc nauczyciela w grupie maluchów
-  - name: Karolina Niemiec
-    role: Pracownik obsługi
-  - name: Iwona Rysiewicz
-    role: Pomoc w grupie Zuchów
   - name: Magdalena Sumara
     role: Pomoc nauczyciela
+  - name: Iwona Rysiewicz
+    role: Pomoc w grupie Zuchów
+  - name: Karolina Niemiec
+    role: Pracownik obsługi
