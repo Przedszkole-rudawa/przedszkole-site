@@ -1,30 +1,7 @@
 person:
   - name: s. Barbara Pasternak
-    role: Dyrektor, wychowawca w grupie Odkrywców
-  - role: Wychowawca w grupie Zuchów
-    name: Monika Ziomek
-    description: "Ukończyłam Studia magisterskie Zarządzanie i marketing, Studia
-      Podyplomowe: Edukacja wczesnoszkolna i przedszkolna, oraz Przygotowanie
-      pedagogiczne do pracy nauczycielskiej. Praca z dziećmi daje mi ogromną
-      satysfakcję i codziennie przynosi nowe doświadczenia. Ważne jest dla mnie
-      budowanie atmosfery zaufania i bezpieczeństwa, która pomaga we
-      wszechstronnym rozwoju dzieci. Istotą pracy wychowawczej jest moim zdaniem
-      zaangażowanie oraz ciepły stosunek  do dzieci. Każde dziecko potrzebuje
-      uwagi, życzliwości i akceptacji. Największą nagrodą jest dla mnie uśmiech
-      moich podopiecznych. Jestem osobą pogodną, cierpliwą i wyrozumiałą. Staram
-      się poznawać indywidualne potrzeby dzieci. Wolny czas lubię spędzać z całą
-      rodziną w ogrodzie, pielęgnując rośliny."
-  - role: Wychowawca w grupie Zuchów
-    name: Dominika Borkiewicz
-    description: >-
-      Jestem absolwentką Uniwersytetu Pedagogicznego im. KEN w Krakowie.
-      Ukończyłam studia
-
-      licencjackie na kierunku Pedagogika przedszkolna i wczesnoszkolna z diagnozą i terapią
-
-      pedagogiczną oraz studia magisterskie na kierunku Pedagogika przedszkolna i wczesnoszkolna. W pracy staram się tworzyć taką atmosferę i warunki, które zapewniają właściwy rozwój fizyczny i psychiczny dzieci.  Praca z dziećmi sprawia mi ogromną radość, codziennie przynosi nowe doświadczenia – nie jest wyłącznie moim zawodem, ale również pasją. Chciałabym, aby czas spędzony w przedszkolu był dla dzieci wesoły i twórczy. Interesuję się wychowaniem przez sztukę, literaturą dziecięcą, grą na gitarze oraz pleceniem dekoracji ze sznurków.
-    photo: ""
-  - role: Wychowawca w grupie Odkrywców
+    role: Dyrektor, wychowawca w grupie Kropelek
+  - role: Wychowawca w grupie Kropelek
     name: s. Joanna Bugańska
     description: "Mottem, którym, staram się kierować w życiu są słowa patrona
       naszego przedszkola bł. Edmunda Bojanowskiego: Dzieci  nie słowem, lecz
@@ -44,7 +21,22 @@ person:
       relaksacyjnej, czytać  chrześcijańskie  powieści.
       W  uśmiechniętych  oczach  dziecka  widzę twarz Boga."
     photo: ""
-  - name: Sylwia Domagała
+  - role: Wychowawca w grupie Zuchów
+    name: Monika Ziomek
+    description: "Ukończyłam Studia magisterskie Zarządzanie i marketing, Studia
+      Podyplomowe: Edukacja wczesnoszkolna i przedszkolna, oraz Przygotowanie
+      pedagogiczne do pracy nauczycielskiej. Praca z dziećmi daje mi ogromną
+      satysfakcję i codziennie przynosi nowe doświadczenia. Ważne jest dla mnie
+      budowanie atmosfery zaufania i bezpieczeństwa, która pomaga we
+      wszechstronnym rozwoju dzieci. Istotą pracy wychowawczej jest moim zdaniem
+      zaangażowanie oraz ciepły stosunek  do dzieci. Każde dziecko potrzebuje
+      uwagi, życzliwości i akceptacji. Największą nagrodą jest dla mnie uśmiech
+      moich podopiecznych. Jestem osobą pogodną, cierpliwą i wyrozumiałą. Staram
+      się poznawać indywidualne potrzeby dzieci. Wolny czas lubię spędzać z całą
+      rodziną w ogrodzie, pielęgnując rośliny."
+  - name: Renata Byczek
+    role: Wychowawca w grupie Zuchów
+  - name: Gabriela Kozioł
     role: Wychowawca w grupie Skarbów
   - role: Wychowawca w grupie Skarbów
     name: Weronika Tarnawska
@@ -65,9 +57,11 @@ person:
       kreatywność. Przyjemność sprawia mi wywoływanie radości u dzieci i
       wzbudzanie w nich zaciekawienia. Uwielbiam pływać, ukończyłam kurs
       ratownika wodnego. Lubię też ręczne robótki – haft i szycie zabawek.
-  - name: Maria Strączek
-    role: Pracownik obsługi
-  - name: Renata Byczek
-    role: Pracownik obsługi
+  - name: Anna Nadgórska
+    role: Pomoc nauczyciela w grupie maluchów
   - name: Karolina Niemiec
     role: Pracownik obsługi
+  - name: Iwona Rysiewicz
+    role: Pomoc w grupie Zuchów
+  - name: Magdalena Sumara
+    role: Pomoc nauczyciela
