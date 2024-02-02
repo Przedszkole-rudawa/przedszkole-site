@@ -1,6 +1,6 @@
 ---
 title: Rekrutacja do przedszkola na rok szkolny 2024/2025
-date: 2023-01-21T09:19:31.600Z
+date: 2024-01-28T15:18:58.369Z
 images:
   - https://res.cloudinary.com/db6nheyow/image/upload/v1622540538/galeria/nasze%20przedszkole/178919624_312690157035880_5593611404369988264_n_mopihl.jpg
 ---
