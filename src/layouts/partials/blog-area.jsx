@@ -39,9 +39,12 @@ const BlogArea = () => {
                                    <h2 className="my-3">
                                      Aktualności
                                    </h2>
-                                   <strong className="is-block is-size-6 mb-6">
-                                     Zapraszamy do zapoznania się z&nbsp;ostatnimi wydarzeniami z&nbsp;życia przedszkola
-                                   </strong>
+                                   <p>
+                                     <strong className="is-block is-size-6 mb-6">
+                                       Zapraszamy do zapoznania się z&nbsp;ostatnimi wydarzeniami z&nbsp;życia
+                                       przedszkola
+                                     </strong>
+                                   </p>
                                  </div>
                                  <div className="columns features">
                                    {data.allMarkdownRemark.edges.map(edge => (

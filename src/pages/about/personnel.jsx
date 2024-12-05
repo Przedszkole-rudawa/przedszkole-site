@@ -37,9 +37,9 @@ const Personnel = () => {
                                        const text = (
                                                <div key={`${name}-desc`}
                                                     className={`column ${textClass}`}>
-                                                 <h4><p className="mb-0"
-                                                        dangerouslySetInnerHTML={{ __html: fixOrphans(role) }}/></h4>
-                                                 <h2><p dangerouslySetInnerHTML={{ __html: fixOrphans(name) }}/></h2>
+                                                 <h4 className="mb-0"
+                                                     dangerouslySetInnerHTML={{ __html: fixOrphans(role) }}/>
+                                                 <h2 dangerouslySetInnerHTML={{ __html: fixOrphans(name) }}/>
                                                  <p className="mt-5 has-text-justified"
                                                     dangerouslySetInnerHTML={{ __html: fixOrphans(description) }}>
                                                  </p>

@@ -13,12 +13,15 @@ html {
   }
 }
 
+h1, h2, h3, h4 {
+  line-height: 1.2;
+}
+
 h1 {
   font-family: 'Ubuntu', sans-serif;
   font-size: 2.5rem;
   font-weight: bold;
   color: $mainAccent;
-  line-height: 1.2;
 
   @include tablet() {
     font-size: 2.5rem;
@@ -95,9 +98,9 @@ a.plain {
 }
 
 @include touch() {
-  p {
-    margin-right: 1rem;
-    margin-left: 1rem;
+  p, h1, h2, h3, h4, h5, h6, ul, .touch-padded {
+    margin-right: 1.5rem;
+    margin-left: 1.5rem;
   }
 
   figure.image {
@@ -218,5 +221,13 @@ ul.round {
         color: $white;
       }
     }
+  }
+}
+
+.navbar-menu {
+  font-size: 16px;
+
+  .navbar-dropdown {
+    font-size: 16px;
   }
 }
