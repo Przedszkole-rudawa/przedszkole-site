@@ -2,7 +2,7 @@
 title: Rekrutacja do przedszkola na rok szkolny 2025/2026
 date: 2025-01-16T08:00:41.998Z
 images:
-  - https://res.cloudinary.com/db6nheyow/image/upload/v1622540538/galeria/nasze%20przedszkole/178919624_312690157035880_5593611404369988264_n_mopihl.jpg
+  - https://res.cloudinary.com/db6nheyow/image/upload/v1737015474/ZIB08488_tq0chx.jpg
 ---
 W roku szkolnym 2025/2026 w Przedszkolu będą funkcjonowały 3 oddziały przedszkolne liczące do 25 wychowanków. 
 
