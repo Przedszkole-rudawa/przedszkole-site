@@ -14,6 +14,7 @@ const Contact = () => {
   const [email, setEmail] = useState('');
   const [name, setName] = useState('');
   const [body, setBody] = useState('');
+  const [agreement, setAgreement] = useState(false);
   const [emailTouched, setEmailTouched] = useState(false);
   const [bodyTouched, setBodyTouched] = useState(false);
   const [nameTouched, setNameTouched] = useState(false);
@@ -32,7 +33,8 @@ const Contact = () => {
           && emailRegexValid
           && !!body
           && bodyLengthValid
-          && nameLengthValid;
+          && nameLengthValid
+          && agreement;
 
   const submit = async event => {
     event.preventDefault();
@@ -75,70 +77,53 @@ const Contact = () => {
                     {!isSubmitted && (
                             <form noValidate
                                   onSubmit={submit}>
-                              <div className="field is-horizontal">
-                                <div className="field-label is-normal">
-                                  <label className="label"
-                                         htmlFor="nameControl">Imię
-                                  </label>
-                                  <span className="is-size-7">(opcjonalnie)</span>
+                              <div className="field touch-padded">
+                                <label className="label"
+                                       htmlFor="nameControl">Imię <span className="is-size-7">(opcjonalnie)</span>
+                                </label>
+                                <div className="control">
+                                  <input className={`input ${nameTouched && !nameLengthValid ? 'is-danger' : ''}`}
+                                         type="text"
+                                         id="nameControl"
+                                         value={name}
+                                         onChange={e => setName(e.target.value)}
+                                         onBlur={() => setNameTouched(true)}/>
                                 </div>
-                                <div className="field-body">
-                                  <div className="field">
-                                    <p className="control">
-                                      <input className={`input ${nameTouched && !nameLengthValid ? 'is-danger' : ''}`}
-                                             type="text"
-                                             id="nameControl"
-                                             value={name}
-                                             onChange={e => setName(e.target.value)}
-                                             onBlur={() => setNameTouched(true)}/>
-                                    </p>
-                                    {nameTouched && !nameLengthValid && (
-                                            <p className="help is-danger">
-                                              Pole powinno zawierać od {NAME_MIN} do {NAME_MAX} znaków
-                                            </p>
-                                    )}
-                                  </div>
-                                </div>
+                                {nameTouched && !nameLengthValid && (
+                                        <div className="help is-danger">
+                                          Pole powinno zawierać od {NAME_MIN} do {NAME_MAX} znaków
+                                        </div>
+                                )}
                               </div>
-                              <div className="field is-horizontal">
-                                <div className="field-label is-normal">
-                                  <label className="label"
-                                         htmlFor="emailControl">*E-Mail
-                                  </label>
+                              <div className="field touch-padded">
+                                <label className="label"
+                                       htmlFor="emailControl">*E-Mail
+                                </label>
+                                <div className="control">
+                                  <input className={`input ${emailTouched && (!email || !emailRegexValid) ? 'is-danger' : ''}`}
+                                         type="email"
+                                         id="emailControl"
+                                         value={email}
+                                         onChange={e => setEmail(e.target.value)}
+                                         onBlur={() => setEmailTouched(true)}
+                                         required/>
                                 </div>
-                                <div className="field-body">
-                                  <div className="field">
-                                    <p className="control">
-                                      <input className={`input ${emailTouched && (!email || !emailRegexValid) ? 'is-danger' : ''}`}
-                                             type="email"
-                                             id="emailControl"
-                                             value={email}
-                                             onChange={e => setEmail(e.target.value)}
-                                             onBlur={() => setEmailTouched(true)}
-                                             required/>
-                                    </p>
-                                    {emailTouched && !email && (
-                                            <p className="help is-danger">
-                                              Pole wymagane
-                                            </p>
-                                    )}
-                                    {emailTouched && !emailRegexValid && (
-                                            <p className="help is-danger">
-                                              Nieprawidłowy adres e-mail
-                                            </p>
-                                    )}
-                                  </div>
-                                </div>
+                                {emailTouched && !email && (
+                                        <div className="help is-danger">
+                                          Pole wymagane
+                                        </div>
+                                )}
+                                {emailTouched && !emailRegexValid && (
+                                        <div className="help is-danger">
+                                          Nieprawidłowy adres e-mail
+                                        </div>
+                                )}
                               </div>
-                              <div className="field is-horizontal">
-                                <div className="field-label is-normal">
-                                  <label className="label"
-                                         htmlFor="bodyControl">*Treść
-                                  </label>
-                                </div>
-                                <div className="field-body">
-                                  <div className="field">
-                                    <p className="control">
+                              <div className="field touch-padded">
+                                <label className="label"
+                                       htmlFor="bodyControl">*Treść
+                                </label>
+                                <div className="control">
                                       <textarea className={`textarea has-fixed-size ${bodyTouched && (!body || !bodyLengthValid) ? 'is-danger' : ''}`}
                                                 id="bodyControl"
                                                 value={body}
@@ -146,29 +131,52 @@ const Contact = () => {
                                                 onBlur={() => setBodyTouched(true)}
                                                 required
                                                 rows="10"/>
-                                    </p>
-                                    {bodyTouched && !body && (
-                                            <p className="help is-danger">
-                                              Pole wymagane
-                                            </p>
-                                    )}
-                                    {bodyTouched && !bodyLengthValid && (
-                                            <p className="help is-danger">
-                                              Pole powinno zawierać od {BODY_MIN} do {BODY_MAX} znaków
-                                            </p>
-                                    )}
-                                  </div>
                                 </div>
+                                {bodyTouched && !body && (
+                                        <div className="help is-danger">
+                                          Pole wymagane
+                                        </div>
+                                )}
+                                {bodyTouched && !bodyLengthValid && (
+                                        <div className="help is-danger">
+                                          Pole powinno zawierać od {BODY_MIN} do {BODY_MAX} znaków
+                                        </div>
+                                )}
                               </div>
+                              <p className="mb-5 has-text-justified">
+                                Uzupełnienie niniejszego formularza stanowi zgodę na przetwarzanie wpisanych danych
+                                osobowych przez Przedszkole Niepubliczne Sióstr Służebniczek NMP NP
+                                w&nbsp;celu ułatwienia z&nbsp;Państwem kontaktu w&nbsp;związku z&nbsp;wysłaniem
+                                zapytania. Zgodę można
+                                wycofać w&nbsp;dowolnym czasie. Wycofanie zgody nie wpływa na zgodność z&nbsp;prawem
+                                przetwarzania
+                                dokonanego przed jej wycofaniem.
+                                <br/>
+                                <br/>
+                                Administratorem Pani/Pana danych osobowych jest Przedszkole Niepubliczne Sióstr
+                                Służebniczek NMP NP
+                                z&nbsp;siedzibą w&nbsp;Rudawie przy ul.&nbsp;Polaczka&nbsp;27, 32-064&nbsp;Rudawa.
+                                Podane przez Panią/Pana dane
+                                osobowe będą przetwarzane w&nbsp;celu kontaktu i&nbsp;obsługi Państwa zgłoszenia.
+                                <br/>
+                                <br/>
+                                <label className="checkbox">
+                                  <input className="mr-1"
+                                         type="checkbox"
+                                         defaultChecked={agreement}
+                                         onChange={() => setAgreement(!agreement)}/>
+                                  Wyrażam zgodę
+                                </label>
+                              </p>
                               <div className="has-text-centered">
                                 <button className={`button is-main is-medium is-rounded ${submitting ? 'is-loading' : ''}`}
                                         type="submit"
                                         disabled={!formValid}>Wyślij
                                 </button>
                                 {isError && (
-                                        <p className="help is-danger mt-5">
+                                        <div className="help is-danger mt-5">
                                           Nie udało się wysłać wiadomości. Spróbuj ponownie za chwilę.
-                                        </p>
+                                        </div>
                                 )}
                               </div>
                             </form>
