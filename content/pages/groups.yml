@@ -6,3 +6,19 @@ group:
       - https://res.cloudinary.com/db6nheyow/image/upload/v1662994445/depositphotos_64700271-stock-illustration-cartoon-kids-and-their-teacher_frtq2f.webp
     photo:
       - https://res.cloudinary.com/db6nheyow/image/upload/v1622476619/aktualno%C5%9Bci/wycieczka%20do%20ZOO%202021/192120575_3915495381883062_8594146795346593208_n_qgrann.jpg
+  - name: Ziarenka
+    body: Jesteśmy grupą średniaków i jest nas 19. Siostra Jadwiga i pani Honorata
+      codziennie pokazują nam jak dobry jest Pan Bóg i jak piękny jest świat i
+      człowiek.
+    image:
+      - https://res.cloudinary.com/db6nheyow/image/upload/v1662994445/depositphotos_64700271-stock-illustration-cartoon-kids-and-their-teacher_frtq2f.webp
+    photo:
+      - https://res.cloudinary.com/db6nheyow/image/upload/v1622476618/aktualno%C5%9Bci/wycieczka%20do%20ZOO%202021/192000813_320596252795869_2739909274722252846_n_acbdr7.jpg
+  - name: Pszczółki
+    body: Jest nas 22 Pszczółki i jesteśmy najmniejsi ale pod czujnym okiem siostry
+      Basi i pani Moniki każdego dnia rośniemy i stajemy się coraz lepsi i
+      odważniejsi w poznawaniu świata.
+    image:
+      - https://res.cloudinary.com/db6nheyow/image/upload/v1644674676/istockphoto-1253133132-612x612_epwqjn.jpg
+    photo:
+      - https://res.cloudinary.com/db6nheyow/image/upload/v1644674676/istockphoto-972904978-612x612_gneynb.jpg
